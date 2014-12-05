@@ -101,9 +101,13 @@ textarea {
   line-height: 30px;
 
 }
-#menubanner {
+#menu div {
   background-color:3f8252;
   height: 50px;
+  width; 100%
+}
+#menu a {
+  color: black;
 }
 #menu {
   height: 56px;
