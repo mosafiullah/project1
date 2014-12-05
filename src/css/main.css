@@ -124,6 +124,12 @@ textarea {
   margin-left: auto;
   margin-right: auto;
 }
+#video {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 215px;
+  margin-right: 215px;
+}  
 #articlehead {
   text-align: center;
   color: 5d5d5d;
@@ -146,7 +152,9 @@ textarea {
   float: left;
   width: 400px;
 }  
-
+#heating {
+  margin-top : 500px;
+}  
 
 
 
