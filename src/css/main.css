@@ -102,28 +102,42 @@ textarea {
 
 }
 #menu div {
-  background-color:3f8252;
+  color:3f8252;
   height: 50px;
-  width; 100%
+  width: 100%
 }
 #menu a {
   color: black;
 }
-#menu {
-  height: 56px;
-  line-height: 56px;
-}
 #menu li {
-  margin: 0px;
+  margin: 10px;
 }
 #menu li {
   display: inline;
 }
-
-
-
-
-
+.sentence {
+  margin-left: auto;
+  margin-right: auto;
+}
+#articlehead {
+  margin-left: auto;
+  margin-right: auto;
+}  
+#content {
+  width: 980px;
+  padding-left: 31px;
+  padding-right: 31px;
+  text-align: justify;
+  float: left;
+ 
+}
+#rightward {
+  float: right;
+}  
+#leftward {
+  float: left;
+  width: 400px;
+}  
 
 
 
