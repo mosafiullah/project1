@@ -101,6 +101,16 @@ textarea {
   line-height: 30px;
 
 }
+#menu {
+  height: 56px;
+  line-height: 56px;
+}
+#menu li {
+  margin: 0px;
+}
+#menu li {
+  display: inline;
+}
 
 
 
