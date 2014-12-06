@@ -137,6 +137,10 @@ textarea {
 .sentence {
   text-align: center;
 }  
+#north {
+  text-align: center;
+  color: #3f8252;
+}  
 #content {
   width: 980px;
   padding-left: 31px;
@@ -150,12 +154,17 @@ textarea {
 }  
 #leftward {
   float: left;
-  width: 400px;
+  width: 450px;
 }  
 #heating {
-  margin-top : 500px;
-}  
+  margin-top : 300px;
 
+}  
+#heating div{
+  background-color: eef1f5;
+  width: 100%;
+  height: 350px;
+}  
 
 
 
